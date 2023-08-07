@@ -1,7 +1,7 @@
-#Grammar parsing table
+# Grammar parsing table
 This is a syntactic analysis exercise in which the sets of "FIRST" and "FOLLOW" for certain grammars are calculated.
 
-#Settings
+# Settings
 The input grammar should be written in to the csv file "grammar.csv" following this order:
 - Grammar id
 - Grammar terminals (comma separated)
